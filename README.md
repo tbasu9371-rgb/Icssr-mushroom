@@ -34,10 +34,10 @@ This project was developed under the ICSSR (Indian Council of Social Science Res
 ## Possible Roadmap
 
 - [ ] Add data visualisation for research findings
-- [✓] Make the site mobile-responsive
+- [ ]✓Make the site mobile-responsive
 - [ ] Connect to a backend API for dynamic data
 - [ ] Add a research paper/abstract section
-- [✓] MQTT dashboard for accessing all online kits
+- [ ]✓MQTT dashboard for accessing all online kits
 
 ---
 
