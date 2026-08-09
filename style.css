@@ -851,3 +851,13 @@ footer {
     .states-grid { grid-template-columns: 1fr 1fr; }
     .hero-stats { grid-template-columns: 1fr 1fr; }
 }
+
+/* FORCE TIMES NEW ROMAN EVERYWHERE */
+html,
+body,
+body *,
+body *::before,
+body *::after {
+    font-family: "Times New Roman", Times, serif !important;
+}
+
