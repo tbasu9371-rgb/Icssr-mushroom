@@ -465,7 +465,7 @@ h2 {
 
 .kit-visual h3 {
     font-family: var(--font-family);
-    font-size: 24px;
+    font-size: 40px;
     color: var(--cream);
     margin-bottom: 8px;
     position: relative;
@@ -475,7 +475,7 @@ h2 {
 
 .kit-visual p {
     color: rgba(247,243,237,0.7);
-    font-size: 14px;
+    font-size: 24px;
     position: relative;
     font-weight: 300;
 }
