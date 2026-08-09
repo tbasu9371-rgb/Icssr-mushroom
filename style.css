@@ -51,7 +51,7 @@ nav {
 }
 
 .nav-logo {
-    font-family: var(--font-serif);
+    font-family: var(--font-family);
     font-size: 17px;
     color: var(--forest);
     max-width: 280px;
@@ -114,7 +114,7 @@ nav {
 }
 
 .hero h1 {
-    font-family: var(--font-serif);
+    font-family: var(--font-family);
     font-size: clamp(42px, 6vw, 76px);
     color: var(--cream);
     line-height: 1.05;
@@ -151,7 +151,7 @@ nav {
 }
 
 .stat-num {
-    font-family: var(--font-serif);
+    font-family: var(--font-family);
     font-size: 42px;
     color: var(--mushroom-light);
     line-height: 1;
@@ -212,7 +212,7 @@ section {
 }
 
 h2 {
-    font-family: var(--font-serif);
+    font-family: var(--font-family);
     font-size: clamp(32px, 4vw, 48px);
     line-height: 1.1;
     margin-bottom: 20px;
@@ -250,7 +250,7 @@ h2 {
 }
 
 .about-card h3 {
-    font-family: var(--font-serif);
+    font-family: var(--font-family);
     font-size: 19px;
     margin-bottom: 12px;
     color: var(--forest);
@@ -317,7 +317,7 @@ h2 {
 }
 
 .problem-card h3 {
-    font-family: var(--font-serif);
+    font-family: var(--font-family);
     font-size: 17px;
     color: var(--cream);
     margin-bottom: 10px;
@@ -357,7 +357,7 @@ h2 {
 }
 
 .finding-num {
-    font-family: var(--font-serif);
+    font-family: var(--font-family);
     font-size: 48px;
     color: var(--forest);
     line-height: 1;
@@ -384,7 +384,7 @@ h2 {
 
 .quote-block::before {
     content: '"';
-    font-family: var(--font-serif);
+    font-family: var(--font-family);
     font-size: 120px;
     color: rgba(247,243,237,0.1);
     position: absolute;
@@ -394,7 +394,7 @@ h2 {
 }
 
 .quote-block blockquote {
-    font-family: var(--font-serif);
+    font-family: var(--font-family);
     font-size: 21px;
     font-style: italic;
     color: var(--cream);
@@ -453,7 +453,7 @@ h2 {
 }
 
 .kit-visual h3 {
-    font-family: var(--font-serif);
+    font-family: var(--font-family);
     font-size: 24px;
     color: var(--cream);
     margin-bottom: 8px;
@@ -526,7 +526,7 @@ h2 {
 }
 
 .cost-banner strong {
-    font-family: var(--font-serif);
+    font-family: var(--font-family);
     font-size: 28px;
     color: var(--forest);
     display: block;
@@ -565,7 +565,7 @@ h2 {
 }
 
 .state-card h3 {
-    font-family: var(--font-serif);
+    font-family: var(--font-family);
     font-size: 18px;
     color: var(--forest);
     margin-bottom: 6px;
@@ -612,7 +612,7 @@ h2 {
 }
 
 .research-card h3 {
-    font-family: var(--font-serif);
+    font-family: var(--font-family);
     font-size: 18px;
     margin-bottom: 12px;
     color: var(--text);
@@ -682,7 +682,7 @@ h2 {
 }
 
 .team-card h3 {
-    font-family: var(--font-serif);
+    font-family: var(--font-family);
     font-size: 18px;
     margin-bottom: 4px;
     color: var(--text);
@@ -723,7 +723,7 @@ footer {
 }
 
 .footer-brand h3 {
-    font-family: var(--font-serif);
+    font-family: var(--font-family);
     font-size: 20px;
     color: var(--cream);
     margin-bottom: 12px;
