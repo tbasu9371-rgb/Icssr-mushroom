@@ -9,8 +9,8 @@
     --text-soft: #5C5748;
     --white: #FFFFFF;
     --accent: #E07B39;
-    --font-family: 'Times New Roman', 'New York', Georgia, ui-serif, serif;
-    --font-sans: "Times New Roman", Times, serif;
+   --font-family: "Times New Roman";
+--font-sans: "Times New Roman", Times, serif;
 }
 
 p,
@@ -852,12 +852,30 @@ footer {
     .hero-stats { grid-template-columns: 1fr 1fr; }
 }
 
-/* FORCE TIMES NEW ROMAN EVERYWHERE */
+/* TIMES NEW ROMAN - FORCE */
 html,
 body,
-body *,
-body *::before,
-body *::after {
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body h6,
+body p,
+body a,
+body li,
+body span,
+body strong,
+body em,
+body small,
+body label,
+body button,
+body input,
+body textarea,
+body blockquote,
+body cite,
+body div {
     font-family: "Times New Roman", Times, serif !important;
 }
+
 
