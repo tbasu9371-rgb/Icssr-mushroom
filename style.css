@@ -10,7 +10,7 @@
     --white: #FFFFFF;
     --accent: #E07B39;
     --font-family: 'Times New Roman', 'New York', Georgia, ui-serif, serif;
-    --font-sans: -apple-system, 'SF Pro Text', 'SF Pro Display', BlinkMacSystemFont, 'Helvetica Neue', sans-serif;
+    --font-sans: "Times New Roman", Times, serif;
 }
 
 * {
@@ -24,7 +24,7 @@ html {
 }
 
 body {
-    font-family: var(--font-sans);
+      font-family: var(--font-family);
     background: var(--cream);
     color: var(--text);
     font-size: 16px;
